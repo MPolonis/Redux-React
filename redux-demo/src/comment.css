@@ -1,0 +1,15 @@
+.comment {
+    text-decoration: none;
+    margin: 20px;
+    list-style: none;
+}
+.buttons {
+    display: block;
+}
+.button {
+    margin: 5px;
+    cursor: pointer;
+}
+.vote {
+    color: #ea9f1e;
+}
